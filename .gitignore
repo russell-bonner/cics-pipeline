@@ -1,0 +1,6 @@
+logs/*.log
+logs/BuildReport.* 
+logs/buildList.txt
+
+# OS-Specific files
+.DS_Store

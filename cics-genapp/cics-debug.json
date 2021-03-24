@@ -1,0 +1,9 @@
+{
+    "activation": "A",
+    "program":[{"loadname":"LGICUS01","pgmname":" * "}],
+    "level":"ERROR",
+    "transactionid":" * ",
+    "sesstype": "TCP",
+    "sessaddr": "localhost",
+    "sessport": "7393"
+}

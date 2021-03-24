@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+                {
+                    "type": "zOpenDebug",
+                    "request": "attach",
+                    "name": "List s0w1-adcd",
+                    "useConnectionDetailsFromSettings": false,
+                    "user": "IBMUSER",
+                    "ignoreCertificateErrors": true,
+                    "host": "192.168.0.102",
+                    "port": 7394,
+                    "secure": true
+                },
+                {
+                    "type": "zOpenDebug",
+                    "request": "launch",
+                    "name": "Connect s0w1-adcd",
+                    "useConnectionDetailsFromSettings": false,
+                    "user": "IBMUSER",
+                    "password": "sys1",
+                    "ignoreCertificateErrors": true,
+                    "host": "192.168.0.102",
+                    "port": 7394,
+                    "secure": true
+                },
+            ]
+}
